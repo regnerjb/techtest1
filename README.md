@@ -4,7 +4,7 @@
 2. I am a car enthusisat
 ..2. My favorite car is the _**Boss 429**_
 3. I enjoy playing video games 
-..4. My Favorite video game is _Call of Duty_
+..3. My Favorite video game is _Call of Duty_
 5. My favorite food is pasta 
 
 ## Example of one of my favorite foods 
